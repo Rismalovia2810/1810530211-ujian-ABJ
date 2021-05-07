@@ -1,0 +1,5 @@
+Hostname Switch : SW2, Hostname Interface : GigabitEthernet0/1
+Hostname Switch : SW3, Hostname Interface : FastEthernet0/1
+Hostname Switch : SW1, Hostname Interface : FastEthernet0/24
+Hostname Switch : SW2, Hostname Interface : GigabitEthernet0/1
+Hostname Switch : SW3, Hostname Interface : FastEthernet0/1
